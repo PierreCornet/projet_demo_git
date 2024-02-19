@@ -1,1 +1,2 @@
-il faut me lire avant de commencer à utiliser ce repo.
+Il faut me lire avant de commencer à utiliser ce repo.
+Nous venons de créer une nouvelle branche "autom"
